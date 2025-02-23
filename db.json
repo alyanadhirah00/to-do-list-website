@@ -1,0 +1,32 @@
+{
+  "tasks": [
+    {
+      "id": "1740285320850",
+      "title": "Journaling",
+      "deadline": "2025-02-28T12:35",
+      "status": "completed",
+      "createdAt": "2025-02-23T04:35:20.851Z"
+    },
+    {
+      "id": "1740287204466",
+      "title": "Asignment CSE332",
+      "deadline": "2025-02-23T13:06",
+      "status": "in_progress",
+      "createdAt": "2025-02-23T05:06:44.467Z"
+    },
+    {
+      "id": "1740287435600",
+      "title": "Assignment CSE342",
+      "deadline": "2025-03-03T12:28",
+      "status": "in_progress",
+      "createdAt": "2025-02-23T05:10:35.600Z"
+    },
+    {
+      "id": "1740287452820",
+      "title": "Laundry",
+      "deadline": "2025-02-23T13:10",
+      "status": "not_started",
+      "createdAt": "2025-02-23T05:10:52.820Z"
+    }
+  ]
+}

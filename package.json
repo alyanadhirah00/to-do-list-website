@@ -1,0 +1,17 @@
+{
+	"name": "throbbing-forest-d48d",
+	"scripts": {
+		"dev": "wrangler dev",
+		"deploy": "wrangler deploy --minify",
+		"cf-typegen": "wrangler types --env-interface CloudflareBindings"
+	},
+	"dependencies": {
+		"fs": "^0.0.1-security",
+		"hono": "^4.7.2",
+		"path": "^0.12.7"
+	},
+	"devDependencies": {
+		"@cloudflare/workers-types": "^4.20250214.0",
+		"wrangler": "^3.109.2"
+	}
+}
